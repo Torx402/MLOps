@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MLOps/DevOps, DataOps, MLOps/Module 1/What is MLOps?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "What is MLOps?"
             }
           }
         ]
@@ -164,21 +164,23 @@
   },
   "active": "479a5cd42ff36fbb",
   "lastOpenFiles": [
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/README.md",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/top_level.txt",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/requires.txt",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/entry_points.txt",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/dependency_links.txt",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/SOURCES.txt",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/PKG-INFO",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize/main.py",
+    "Projects/Python Essentials for MLOps/CLI Summarize/example/ann.txt",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info",
+    "Projects/Python Essentials for MLOps/CLI Summarize/summarize",
+    "Projects/Python Essentials for MLOps/CLI Summarize/setup.py",
+    "Projects/Python Essentials for MLOps/CLI Summarize/README.md",
     "README.md",
+    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/README.md",
     "MLOps/DevOps, DataOps, MLOps/Module 1/What is MLOps?.md",
-    "MLOps/DevOps, DataOps, MLOps/Module 1",
-    "MLOps/DevOps, DataOps, MLOps",
     "MLOps/Python Essentials for MLOps/Module 5/Machine Learning APIs/Introduction.md",
     "MLOps/Python Essentials for MLOps/Module 5/Hugging Face.md",
-    "MLOps/Python Essentials for MLOps/Module 5/Machine Learning APIs",
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/requires.txt",
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/entry_points.txt",
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/SOURCES.txt",
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/PKG-INFO",
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/dependency_links.txt",
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info/top_level.txt",
-    "MLOps/Projects/Python Essentials for MLOps/CLI Summarize/summarize.egg-info",
     "MLOps/Python Essentials for MLOps/Module 5/Automation With Command-Line Tools/A CLI ML Project.md",
     "MLOps/Python Essentials for MLOps/Module 5/Automation With Command-Line Tools/Packaging a Project.md",
     "MLOps/Python Essentials for MLOps/Module 5/Automation With Command-Line Tools/Parsing Command-Line Arguments.md",

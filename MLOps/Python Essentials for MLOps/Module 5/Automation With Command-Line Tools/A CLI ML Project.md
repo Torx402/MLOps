@@ -1,0 +1,3 @@
+Now that we have talked about what hugging face transformers are, and went over a few methods to build a CLI tool, we can now combine what we have learned to create a CLI tool that will summarize a given piece of text. 
+
+We will continue from where we left off last time with our script that handled command-line arguments and options by building a CLI tool that takes a text file as a command line argument, and proceeds to summarize said text. For this, please refer to 

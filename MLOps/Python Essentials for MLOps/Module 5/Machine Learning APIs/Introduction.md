@@ -1,0 +1,3 @@
+While building a CLI tool is useful for local use of a machine learning application, sometimes you might want to accept inputs as part of a web application. The ultimate way to establish communication between different applications is through an API. There are numerous resources out there related to APIs, so the more important thing here is to establish that using an API for a machine learning application is very important especially if you would like to host a machine learning application on the web. 
+
+There are various web frame works to achieve this, Flask and FastAPI are one of many, and it isn't even restricted to Python, you could practically host a web-server using any language out there. In this case, we go over some framework using Python.

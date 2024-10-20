@@ -1,0 +1,1 @@
+Summarize CLI tool to summarize text passed as a path via a command-line argument, returns summarized text.

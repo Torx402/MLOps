@@ -1,0 +1,1 @@
+Before we define what exactly MLOps is, we first need to get a grasp on what DevOps is, as MLOps can more or less be treated as an extension to the latter. **DevOps** is a set of methods and approaches to 
